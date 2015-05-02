@@ -21,7 +21,7 @@ calcappKp('Rainbow');
 
 ## License
 
-MIT © [Kapi]()
+MIT © [Kapil]()
 
 
 [npm-image]: https://badge.fury.io/js/calcapp-kp.svg
